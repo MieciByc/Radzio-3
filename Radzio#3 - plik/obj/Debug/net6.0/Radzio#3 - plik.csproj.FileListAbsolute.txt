@@ -1,0 +1,14 @@
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\bin\Debug\net6.0\Radzio#3 - plik.exe
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\bin\Debug\net6.0\Radzio#3 - plik.deps.json
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\bin\Debug\net6.0\Radzio#3 - plik.runtimeconfig.json
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\bin\Debug\net6.0\Radzio#3 - plik.dll
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\bin\Debug\net6.0\Radzio#3 - plik.pdb
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.AssemblyInfoInputs.cache
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.AssemblyInfo.cs
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.csproj.CoreCompileInputs.cache
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.dll
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\refint\Radzio#3 - plik.dll
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.pdb
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\Radzio#3 - plik.genruntimeconfig.cache
+C:\Users\Przemysław Molenda\source\repos\Radzio#3 - plik\obj\Debug\net6.0\ref\Radzio#3 - plik.dll
